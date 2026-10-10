@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taro1037-design.github.io/LocalPulse-Launch-Page/sitemap.xml
